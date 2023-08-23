@@ -9,7 +9,7 @@
 .banner{
     width: 100%;
     height: 100vh;
-    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(wooden-background.avif);
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(Images/wooden-background.avif);
     background-size: cover;
     background-position: center;
 }
